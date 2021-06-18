@@ -1,4 +1,8 @@
 # hacking-brute
+Installation 
+pip3 install proxylist
+pip3 install mechanize
+
 Ckraking Facebook and Gmail and twitter and Netflix 
 
 Hacking Facebook, Twitter, gmail and Netflix 
